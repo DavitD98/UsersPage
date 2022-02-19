@@ -1,0 +1,16 @@
+header{
+    line-height: 50px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap:100px;
+    background: #096565;
+}
+nav li a{
+    color:#fff;
+    font-weight: 700;
+}
+nav li a:hover{
+    color:#ccc;
+}
